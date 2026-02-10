@@ -1,6 +1,6 @@
 from PIL import Image
 
-img = Image.open("sample.jpg")
+img = Image.open("133915006288739743.jpg")
 
 print("Image format:", img.format)
 print("Image size (width, height):", img.size)
