@@ -34,9 +34,10 @@ So far I have implemented basic image processing experiments:
 - Implemented image color inversion
 - Learned that images are matrices of pixel values (0–255)
 
----
-
-
+### 5 Image Histogram Analysis
+- Generated histogram of pixel intensities
+- Understood brightness distribution in images
+- Learned how histograms help analyze contrast
 ---
 
 ## Tools & Libraries
