@@ -47,15 +47,15 @@ So far I have implemented basic image processing experiments:
 - Pillow (PIL)
 
 ---
+## How to Run the Experiments
 
-## Future Goals
+1. Clone the repository
+  
+3. Install dependencies
 
-Next steps for the project:
+4. Run an experiment
 
-- Image brightness and contrast adjustment
-- Noise reduction
-- Implement basic image dehazing techniques
-- Build an image captioning model using deep learning
+
 
 ---
 
