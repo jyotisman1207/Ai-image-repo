@@ -7,7 +7,7 @@ img = cv2.imread("sample.jpg")
 # Compute dark channel
 dark = np.min(img, axis=2)
 
-# Estimate atmospheric light
+# Estimate atmospheric lightnsjsn
 A = np.max(dark)
 
 print("Estimated atmospheric light:", A)
