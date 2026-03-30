@@ -23,3 +23,7 @@ with torch.no_grad():
     features = model(img)
 
 print("Feature shape:", features.shape)
+
+torch.save(features, "image_features.pt")
+
+print("Features saved as image_features.pt")
