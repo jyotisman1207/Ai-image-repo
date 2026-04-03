@@ -78,6 +78,41 @@ This helps in building both **coding skills and theoretical knowledge**.
 - Add transmission refinement
 - Implement deep learning based dehazing
 - Build image captioning system (CNN + NLP)
+---
+## 🔥 Final Integrated Pipeline
+
+The project now includes a complete AI pipeline:  
+
+Input Image
+->
+Image Dehazing (Dark Channel Prior)
+->
+Feature Enhancement
+->
+AI Caption Generation (ViT + GPT-2)
+->
+Output Image + Caption
+
+This combines classical computer vision with deep learning.
+---
+## 📊 Output
+
+After running the pipeline:
+
+- Dehazed image is saved as:
+  - `final_dehazed.jpg`
+
+- Generated caption is saved as:
+  - `final_caption.txt`
+---
+ 
+## ⭐ Key Highlights
+
+- Built full image dehazing pipeline from scratch  
+- Implemented Dark Channel Prior algorithm  
+- Integrated deep learning model for captioning  
+- Combined classical CV + AI in one system  
+- Structured project with experiments and notes  
 
 ---
 
