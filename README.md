@@ -119,4 +119,4 @@ After running the pipeline:
 ## 👨‍💻 Author
 
 Jyotisman Sahoo  
-Building strong fundamentals in Computer Vision 🚀
+
