@@ -2,7 +2,6 @@
 
 Image captioning converts image features into text.
 
-Steps:
 1. Extract features using CNN
 2. Process features
 3. Generate caption using model
