@@ -5,6 +5,7 @@ captioner = pipeline("image-to-text", model="nlpconnect/vit-gpt2-image-captionin
 
 image = Image.open("sample.jpg")
 
+#puttingcaptionerinthis
 result = captioner(image)
 
 print("Generated Caption:", result[0]['generated_text'])
